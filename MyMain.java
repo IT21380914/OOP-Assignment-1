@@ -7,6 +7,8 @@ class RandNum
 	public double minimum;
 	public double maximum;
 	public double Average;
+	public int number;
+	
 	
 	 RandNum() {
 		 for(int i=0;i<5;i++)
